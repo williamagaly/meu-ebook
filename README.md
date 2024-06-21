@@ -37,12 +37,13 @@ Este ebook aborda os conceitos básicos da linguagem de programação C, destina
 - Operadores aritméticos e lógicos.
 - Exemplos práticos para fixação do conteúdo.
 
+## 📖 Acesso ao Ebook
+
+Você pode acessar o ebook completo [aqui](https://github.com/williamagaly/meu-ebook/blob/main/PROGRAMA%C3%87%C3%83O%20EM%20C%20B%C3%81SICA%20PARA%20UNIVERSIT%C3%81RIOS.pdf).
+
 ## 🔗 Links Úteis
 
 - [Plataforma Dio](https://www.dio.me/sign-up?ref=HYCL3NLO9I)
 - [Ferramenta ChatGPT](https://openai.com/chatgpt)
 - [Ferramenta MidJourney](https://midjourney.com)
 - [PowerPoint](https://www.microsoft.com/microsoft-365/powerpoint)
-
-
-
